@@ -1,5 +1,5 @@
 {
-    "name": "jwohlfert23/vapor-core",
+    "name": "laravel/vapor-core",
     "description": "The kernel and invokation handlers for Laravel Vapor",
     "keywords": [
         "laravel",
